@@ -122,6 +122,7 @@ a {
 /* Gallery Section */
 .gallery {
     padding: 50px 0;
+    text-aling: center;
 }
 
 .gallery-grid {
